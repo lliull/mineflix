@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/mineflix/static/css/main.bc74b812.chunk.css",
-    "main.js": "/mineflix/static/js/main.fcf77406.chunk.js",
-    "main.js.map": "/mineflix/static/js/main.fcf77406.chunk.js.map",
+    "main.css": "/mineflix/static/css/main.442a1cbc.chunk.css",
+    "main.js": "/mineflix/static/js/main.43428c2c.chunk.js",
+    "main.js.map": "/mineflix/static/js/main.43428c2c.chunk.js.map",
     "runtime-main.js": "/mineflix/static/js/runtime-main.fa0a8b98.js",
     "runtime-main.js.map": "/mineflix/static/js/runtime-main.fa0a8b98.js.map",
-    "static/js/2.b6d1858f.chunk.js": "/mineflix/static/js/2.b6d1858f.chunk.js",
-    "static/js/2.b6d1858f.chunk.js.map": "/mineflix/static/js/2.b6d1858f.chunk.js.map",
+    "static/js/2.330e5a59.chunk.js": "/mineflix/static/js/2.330e5a59.chunk.js",
+    "static/js/2.330e5a59.chunk.js.map": "/mineflix/static/js/2.330e5a59.chunk.js.map",
     "index.html": "/mineflix/index.html",
-    "precache-manifest.ea35bd88155252378c3d3fa26663a261.js": "/mineflix/precache-manifest.ea35bd88155252378c3d3fa26663a261.js",
+    "precache-manifest.404ce9762df89b718dedf79b9d4521e2.js": "/mineflix/precache-manifest.404ce9762df89b718dedf79b9d4521e2.js",
     "service-worker.js": "/mineflix/service-worker.js",
-    "static/css/main.bc74b812.chunk.css.map": "/mineflix/static/css/main.bc74b812.chunk.css.map",
-    "static/js/2.b6d1858f.chunk.js.LICENSE.txt": "/mineflix/static/js/2.b6d1858f.chunk.js.LICENSE.txt"
+    "static/css/main.442a1cbc.chunk.css.map": "/mineflix/static/css/main.442a1cbc.chunk.css.map",
+    "static/js/2.330e5a59.chunk.js.LICENSE.txt": "/mineflix/static/js/2.330e5a59.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fa0a8b98.js",
-    "static/js/2.b6d1858f.chunk.js",
-    "static/css/main.bc74b812.chunk.css",
-    "static/js/main.fcf77406.chunk.js"
+    "static/js/2.330e5a59.chunk.js",
+    "static/css/main.442a1cbc.chunk.css",
+    "static/js/main.43428c2c.chunk.js"
   ]
 }
