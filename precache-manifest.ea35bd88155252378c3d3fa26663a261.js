@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ba74fac57d74f04b3438e8d247d9cb3",
+    "revision": "3938db5f2bda1bb062ab227e71ff6a7f",
     "url": "/mineflix/index.html"
   },
   {
