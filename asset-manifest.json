@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mineflix/static/css/main.bc74b812.chunk.css",
+    "main.js": "/mineflix/static/js/main.fcf77406.chunk.js",
+    "main.js.map": "/mineflix/static/js/main.fcf77406.chunk.js.map",
+    "runtime-main.js": "/mineflix/static/js/runtime-main.fa0a8b98.js",
+    "runtime-main.js.map": "/mineflix/static/js/runtime-main.fa0a8b98.js.map",
+    "static/js/2.b6d1858f.chunk.js": "/mineflix/static/js/2.b6d1858f.chunk.js",
+    "static/js/2.b6d1858f.chunk.js.map": "/mineflix/static/js/2.b6d1858f.chunk.js.map",
+    "index.html": "/mineflix/index.html",
+    "precache-manifest.2aa873c2b98c19c710b9cc43e6b67e55.js": "/mineflix/precache-manifest.2aa873c2b98c19c710b9cc43e6b67e55.js",
+    "service-worker.js": "/mineflix/service-worker.js",
+    "static/css/main.bc74b812.chunk.css.map": "/mineflix/static/css/main.bc74b812.chunk.css.map",
+    "static/js/2.b6d1858f.chunk.js.LICENSE.txt": "/mineflix/static/js/2.b6d1858f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa0a8b98.js",
+    "static/js/2.b6d1858f.chunk.js",
+    "static/css/main.bc74b812.chunk.css",
+    "static/js/main.fcf77406.chunk.js"
+  ]
+}
